@@ -1,0 +1,5 @@
+To gain Admin Access:
+
+1. login using username: "admin" and password: "12345678!A"
+
+2. create an account with the username: "admin"
