@@ -8,16 +8,6 @@ The system allows **customers to search and book flights**, while **administrato
 
 ---
 
-## 👥 Team Members
-
-| Name                               | ID        |
-|------------------------------------|-----------|
-| Zubair Mehdee                      | 1702400125 |
-| Mohammad Bin Ghulam Hossain        | 1702400165 |
-| Rifatul Islam                      | 1702300089 |
-
----
-
 ## 🚀 Key Features
 
 ### ✅ User Functionality
